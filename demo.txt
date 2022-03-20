@@ -6,8 +6,13 @@ this is my second merge from feature branch
 i have updated few changes.
 New changes are added for demo file
 <<<<<<< HEAD
+<<<<<<< HEAD
 Changes for main branch
 =======
 Today very special day for me
 one more merge  
+>>>>>>> test
+=======
+Today very special day for me 
+one moire merge for test
 >>>>>>> test
