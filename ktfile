@@ -2,9 +2,13 @@ Hi wel come to the git sessions
 Thank you
 Today we are discussing basic git commands 
 all the best..!!
+<<<<<<< HEAD
 ##################################
 Hello all this is second merge from feature
 all the best..!!!
 Today i have started again git classess
 welcome to the class 
 good morning..!!
+=======
+THIS IS FOR TESTING 
+>>>>>>> feature
