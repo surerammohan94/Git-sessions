@@ -21,5 +21,10 @@ steps{
 echo "Deployment here..."
 }
 }
+stage("prod") {
+steps{
+echo "My code got success in prod ..."
+}
+}
 }
 }
