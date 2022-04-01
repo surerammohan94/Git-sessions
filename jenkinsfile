@@ -16,5 +16,10 @@ steps{
 echo "Test the code here..."
 }
 }
+stage("Deploy"){
+steps{
+echo "Deployment here..."
+}
+}
 }
 }
