@@ -8,7 +8,7 @@ echo "Building code here.."
 }
 stage("Compile"){
 steps{
-echo "Compiling here..."
+echo "Compiling  with github-hook here..."
 }
 }
 stage("Test"){
